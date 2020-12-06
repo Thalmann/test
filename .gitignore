@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.444
 *.sdkasdlxs
+*.555
 
 # C extensions
 *.so
