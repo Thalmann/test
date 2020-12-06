@@ -3,9 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.444
 *.asd
 *.sdkasdlxsx
 *.213123
+*.555
 *.123123
 
 # C extensions
